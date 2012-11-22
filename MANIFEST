@@ -1,0 +1,7 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/Lingua/POL/Numbers.pm
+t/Numbers.t
