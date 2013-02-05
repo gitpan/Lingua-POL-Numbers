@@ -1,7 +1,7 @@
 # For Emacs: -*- mode:cperl; mode:folding; coding:utf-8 -*-
 
 package Lingua::POL::Numbers;
-# ABSTRACT: PetaMem release, iso-639-3 namespace.
+# ABSTRACT: Number 2 word conversion in POL.
 
 # {{{ use block
 
@@ -17,8 +17,7 @@ use Perl6::Export::Attrs;
 # }}}
 # {{{ variables declarations
 
-my($ver)      = ('$Rev: 440 $' =~ m{(\d+)}xms);
-our $VERSION = $ver / 10_000;
+our $VERSION = 0.0577;
 
 # }}}
 # {{{ new
@@ -388,11 +387,13 @@ Lingua::POL::Numbers - Perl module for converting numeric values into their Poli
 
 =head1 VERSION
 
-version 0.044
+version 0.0577
 
 =head1 DESCRIPTION
 
-PetaMem release, iso-639-3 namespace.
+Number 2 word conversion in POL.
+
+This is PetaMem release in iso-639-3 namespace.
 
 =head1 SYNOPSIS
 

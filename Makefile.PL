@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "PetaMem release, iso-639-3 namespace.",
+  "ABSTRACT" => "Number 2 word conversion in POL.",
   "AUTHOR" => "Henrik Steffen <cpan\@topconcepts.de>",
   "BUILD_REQUIRES" => {
     "Test::More" => 0
@@ -29,7 +29,7 @@ my %WriteMakefileArgs = (
     "vars" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.044",
+  "VERSION" => "0.0577",
   "test" => {
     "TESTS" => "t/*.t"
   }

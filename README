@@ -1,11 +1,11 @@
 
 
 This archive contains the distribution Lingua-POL-Numbers,
-version 0.044:
+version 0.0577:
 
-  PetaMem release, iso-639-3 namespace.
+  Number 2 word conversion in POL.
 
-This software is copyright (c) 2012 by Henrik Steffen.
+This software is copyright (c) 2013 by Henrik Steffen.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

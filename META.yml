@@ -1,5 +1,5 @@
 ---
-abstract: 'PetaMem release, iso-639-3 namespace.'
+abstract: 'Number 2 word conversion in POL.'
 author:
   - 'Henrik Steffen <cpan@topconcepts.de>'
 build_requires:
@@ -21,4 +21,4 @@ requires:
   utf8: 0
   vars: 0
   warnings: 0
-version: 0.044
+version: 0.0577
