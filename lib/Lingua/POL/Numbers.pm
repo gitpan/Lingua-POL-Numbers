@@ -17,7 +17,7 @@ use Perl6::Export::Attrs;
 # }}}
 # {{{ variables declarations
 
-our $VERSION = 0.0577;
+our $VERSION = 0.0681;
 
 # }}}
 # {{{ new
@@ -387,7 +387,7 @@ Lingua::POL::Numbers - Perl module for converting numeric values into their Poli
 
 =head1 VERSION
 
-version 0.0577
+version 0.0681
 
 =head1 DESCRIPTION
 
