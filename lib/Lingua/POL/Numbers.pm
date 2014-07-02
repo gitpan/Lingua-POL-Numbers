@@ -14,10 +14,12 @@ use utf8;
 use Carp;
 use Perl6::Export::Attrs;
 
+no if $] >= 5.018, 'warnings', "experimental::smartmatch";
+
 # }}}
 # {{{ variables declarations
 
-our $VERSION = 0.0681;
+our $VERSION = 0.135;
 
 # }}}
 # {{{ new
@@ -387,7 +389,7 @@ Lingua::POL::Numbers - Perl module for converting numeric values into their Poli
 
 =head1 VERSION
 
-version 0.0681
+version 0.135
 
 =head1 DESCRIPTION
 
